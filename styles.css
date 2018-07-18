@@ -137,9 +137,16 @@ li a{
 
 .options {
 	position: relative;
+	text-align: center;
 	margin: 0 auto; 
 	font-size: 1em;
 	width: 30%;
+}
+
+.options p{
+	font-family: 'Lobster', cursive;
+	color: #C7E4FF;
+	font-size: 1.6em;
 }
 
 .options-ul {
